@@ -1,0 +1,125 @@
+
+body{
+    background-image: url("../img/01.jpeg");
+ 
+}
+   
+
+.main
+{
+width: 80%;
+height: 600px;
+background-color: rgb(238, 237, 237);
+margin: 0   auto;
+    border:inherit 5px #000000;
+    border-top-left-radius:16px;
+    border-top-right-radius:16px;
+    border-bottom-left-radius:16px;
+    border-bottom-right-radius:75px;
+
+
+
+
+    box-shadow: 11px 10px 31px #000000;
+
+
+}
+
+.textbio{
+width: 68%;
+height: 90%;
+margin-right:25px;
+float: right;
+
+
+}
+
+
+
+p{
+font-family: tahoma;
+font-size: 20px;
+text-align: justify;  
+color: rgb(0, 0, 0);
+
+
+text-shadow:2px 3px 5px #5f5454;
+
+
+
+
+}
+
+.imagebio img{
+  width: 299px;
+  height: 299px;
+  margin-left: 12px;
+  padding-top: 12px;
+  box-shadow: 10px 9px 24px #000000;
+  
+    }
+    .imagebio {
+        width: 299px;
+        height: 299px;
+        padding-top: 30px;
+        margin-left: 20px;
+    display: inline-block;
+      
+        
+          }
+
+
+    h1{
+     font-size: 40px;
+     color: blueviolet;
+    text-shadow:-2px 1px 2px #000000;
+
+
+        
+        }
+
+        .b2{
+            width: 80%;
+            height: 30%;
+            font-size: 40px;
+          float: right;
+            margin-left: 120px;  
+            color: rgb(0, 0, 0);
+           text-shadow:-2px 1px 2px #000000;
+       
+       
+               
+               }
+        .welcome{
+            text-align: center;
+            font-size: 50px;
+            color: blueviolet;
+           text-shadow:-2px 1px 2px #000000;
+        }
+           .form {
+            width: 95%;
+            height: 45%;
+            background-color: rgb(248, 245, 245);
+            
+            margin: 0 auto;
+            margin-top: 30px;
+            box-shadow: 10px 9px 24px #000000;
+            border:inherit 5px #000000;
+            border-top-left-radius:18px;
+            border-top-right-radius:19px;
+            border-bottom-left-radius:19px;
+            border-bottom-right-radius:21px;
+        }
+
+
+        .bimage img{
+            width: 170px;
+            height: 170px;
+            padding-top: 20px;
+     
+        }
+
+
+
+
+        
